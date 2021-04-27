@@ -29,7 +29,7 @@ BEGIN
                 sum += arr2[i];
             } else if (arr2[i] == arr1[j]) {
                 break;
-            }
+            } 
             j++;
         END_WHILE
        
